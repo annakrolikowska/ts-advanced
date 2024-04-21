@@ -1,1 +1,1 @@
-# ts-advanced
+# Typescript advanced GD
